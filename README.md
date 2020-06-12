@@ -1,13 +1,23 @@
-# Bean-Validation-Made-Simple-With-JSR-303
+# Bean-Validation-Made-Simple-With-JSR-303:
+
+### Pom.xml:
+
+      <dependency>
+          <groupId>javax.validation</groupId>
+          <artifactId>validation-api</artifactId>
+          <version>1.0.0.GA</version>
+      </dependency>
 
 
-#### facebook:
-To Register:
-      firstname
-      lastname
-      gender
-      email
-      dateofbirth
+
+#### Facebook:
+
+            To Register
+            firstname
+            lastname
+            gender
+            email
+            dateofbirth
       
 crate a java bean named as Member
 gender is enum
