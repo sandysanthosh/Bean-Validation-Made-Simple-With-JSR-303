@@ -8,7 +8,9 @@
           <version>1.0.0.GA</version>
       </dependency>
 
+SPRING MVC: FORM ERROR
 
+     <form:errors path="userName" cssClass="error" element="div" />
 
 #### Facebook:
 
